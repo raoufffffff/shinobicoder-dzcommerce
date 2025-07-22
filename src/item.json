@@ -5,7 +5,7 @@
     "name": "Product",
     "sTitel": "This cigarette 🚬 take you to airplane ",
     "price": 1000,
-    "best": true,
+    "best": false,
     "type": "",
     "imgs": [],
     "lanImg": "https://i.ibb.co/pBnrnnP6/image.jpg",
