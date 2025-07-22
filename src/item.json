@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "_id": "68800531d086bd2274901d54",
+    "userId": "6880048cd086bd2274901d3f",
+    "name": "Product",
+    "sTitel": "This cigarette 🚬 take you to airplane ",
+    "price": 1000,
+    "best": true,
+    "type": "",
+    "imgs": [],
+    "lanImg": "https://i.ibb.co/pBnrnnP6/image.jpg",
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-07-22T21:40:01.354Z",
+    "__v": 0
+  }
+]
